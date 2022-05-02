@@ -1,10 +1,10 @@
 Hi 👋 My name is Kyle
 
-***Full Stack Developer
+***Full Stack Developer***
 
-*School: Galvanize Software Development Immersive (USSF)
+*School: Galvanize Software Development Immersive (USSF)*
 
-*Work: 65th Cyber Squadron, United States Space Force   
+*Work: 65th Cyber Squadron, United States Space Force*   
 
  * 🌍  I'm based in Santa Barbara, California 
 
