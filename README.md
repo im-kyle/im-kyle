@@ -1,14 +1,18 @@
 Hi 👋 My name is Kyle
-Full Stack Developer
 
-School: Galvanize Software Development Immersive (USSF) 
-Work: 65th Cyber Squadron, United States Space Force  * 
+Full Stack Developer *
+
+  * School: Galvanize Software Development Immersive (USSF) *
+
+  * Work: 65th Cyber Squadron, United States Space Force  * 
 
 🌍  I'm based in Santa Barbara, California * 
 
 ✉️  You can contact me at [imkyle.dev@gmail.com](mailto:imkyle.dev@gmail.com) * 
 
-🧠  I'm learning the pern stack * 🤝  I'm open to collaborating on open source projects & collaborations *
+🧠  I'm learning the pern stack * 
+
+🤝  I'm open to collaborating on open source projects & collaborations *
 
 ### Skills
 
