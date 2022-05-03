@@ -1,6 +1,6 @@
 ***Hi 👋 My name is Kyle***
 
-***Full Stack Developer***
+***Aspiring Full Stack Developer***
 
 *School: Galvanize Software Development Immersive (USSF)*
 
