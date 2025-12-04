@@ -15,7 +15,3 @@
 ### Socials 
 
 <p align="left"> <a href="https://www.github.com/im-kyle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khorne-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/imkyle_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/im-kyle"><img src="https://github-readme-stats.vercel.app/api?username=im-kyle&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ef4444&icon_color=444e59&bg_color=22272e&hide_border=true&show_icons=true" alt="im-kyle's GitHub stats" /></a>
