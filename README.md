@@ -1,12 +1,10 @@
 ***Hi 👋 My name is Kyle***
 
-***Full Stack Developer***
+***Full-Stack Dev***
 
-*School: Galvanize Software Development Immersive (USSF)*
+*School: Galvanize Software Development Immersive (USSF) & Western Governor's University*
 
-*Work: Software Engineer @ 65th Cyber Squadron, United States Space Force*   
-
- * 🌍  I'm based in Santa Barbara, California 
+ * 🌍  I'm based in Las Vegas, Nevada
 
  * ✉️  You can contact me @ [imkyle.dev@gmail.com](mailto:imkyle.dev@gmail.com)  
 
